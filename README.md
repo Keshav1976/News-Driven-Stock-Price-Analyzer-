@@ -30,7 +30,7 @@ This project enables users to:
 
 | Layer        | Tools & Libraries                      |
 |--------------|----------------------------------------|
-| Backend      | Python, Flask                          |
+| Backend      | JavaScript, Node.js                          |
 | Frontend     | HTML, CSS, JavaScript, Chart.js        |
 | AI/ML Model  | `transformers`, FinBERT by ProsusAI     |
 | APIs         | NewsAPI, yFinance                      |
