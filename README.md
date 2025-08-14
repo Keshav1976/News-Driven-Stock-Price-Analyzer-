@@ -19,7 +19,7 @@ This project enables users to:
 
 - ✅ **AI Sentiment Analysis** via `ProsusAI/finbert`
 - 📊 **Price Impact Chart** using Chart.js
-- 🔒 **User Login/Register System** (JSON-based user tracking)
+- 🔒 **User Login/Register System**
 - ⭐ **Personal Dashboard** to save and monitor favorite stocks
 - 📰 **News Fetching** using [NewsAPI.org](https://newsapi.org/)
 - 💹 **Stock Price Tracking** using [yFinance](https://pypi.org/project/yfinance/)
@@ -34,7 +34,7 @@ This project enables users to:
 | Frontend     | HTML, CSS, JavaScript, Chart.js        |
 | AI/ML Model  | `transformers`, FinBERT by ProsusAI     |
 | APIs         | NewsAPI, yFinance                      |
-| Auth & Data  | JSON File-based user data storage      |
+
 
 ---
 
